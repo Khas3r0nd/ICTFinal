@@ -1,1 +1,3 @@
 # ICTFinal
+
+![ERD](ERD.pdf)
