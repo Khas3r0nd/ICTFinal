@@ -1,3 +1,3 @@
 # ICTFinal
 
-![ERD](ERD.pdf)
+![ERD](ERD.png)
