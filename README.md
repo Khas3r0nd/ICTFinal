@@ -1,4 +1,4 @@
 # ICTFinal
 
 
-![ERD](Dia.png)
+![ERD](Diagram.png)
